@@ -1,0 +1,1 @@
+Flask==3.0.0Flask-SQLAlchemy==3.1.1psycopg2-binary==2.9.9gunicorn==21.2.0
